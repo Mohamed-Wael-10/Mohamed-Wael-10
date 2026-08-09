@@ -4,19 +4,20 @@
 
 🎓 Third-year Computer Science student at ACU.
 
-I'm interested in software development and currently focusing on **C# and .NET backend development**. I enjoy building projects and improving my problem-solving skills through programming.
+I'm passionate about software development and currently focusing on **C#, .NET, backend development, and databases**. I enjoy building real-world projects and improving my problem-solving skills through programming.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-### Programming Languages
-- C++
+### Languages & Web
 - C#
+- C++
 - Python
 - SQL
+- HTML
 
-### .NET & Backend
+### Backend & .NET
 - ASP.NET Core MVC
 - Entity Framework Core
 - LINQ
@@ -28,9 +29,10 @@ I'm interested in software development and currently focusing on **C# and .NET b
 - SQL Server
 - SQLite
 
-### Other
-- Linux
+### Tools
 - Git & GitHub
+- Visual Studio
+- Linux
 
 ---
 
@@ -39,45 +41,46 @@ I'm interested in software development and currently focusing on **C# and .NET b
 ### 🏥 Hospital Management System
 **ASP.NET Core MVC | Entity Framework Core | SQL Server**
 
-A hospital management system developed using ASP.NET Core MVC with database integration and entity relationships.
+A hospital management system featuring doctors, patients, departments, database relationships, CRUD operations, and Entity Framework Core.
 
 ### 🎬 Movies Booking System
 **C# | Windows Forms | .NET | SQLite**
 
-A cinema booking application that includes movie selection, showtimes, seat reservations, snacks ordering, booking history, and administrative reports.
+A cinema booking application with movie management, showtimes, seat reservations, snacks ordering, booking history, and administrative reports.
 
 ### 🏥 Clinic Booking System
 **C++ | OOP | Data Structures & Algorithms**
 
-A clinic appointment booking system using object-oriented programming, doctor management, appointment reservations, waiting queues, merge sort, and binary search.
+A clinic appointment booking system featuring doctor management, appointment reservations, waiting queues, merge sort, and binary search.
 
 ### 👷 Smart Workers Attendance System
 **C++ | Data Structures**
 
-An attendance management project developed using C++ and data structure concepts.
+An employee attendance management system using linked lists, queues, searching, sorting, and attendance reporting.
 
 ### 🎟️ Cinema Ticket Booking System
-**C++**
+**C++ | OOP**
 
-A console-based cinema ticket booking system with movie information, seat management, ticket types, multiple seat booking, cancellation, and snacks ordering.
+A console-based cinema ticket booking system with movie information, seat management, ticket types, multiple-seat booking, cancellation, and snacks ordering.
 
 ---
 
 ## 📚 Currently Learning
 
 - ASP.NET Core
-- Backend Development
+- .NET Backend Development
 - Entity Framework Core
-- Database Design
+- SQL & Database Design
+- Software Development
 
 ---
 
-## 🎯 Goals
+## 🎯 Career Goal
 
-I'm working toward becoming a professional **.NET Backend Developer** and continuously improving my programming, database, and software development skills.
+I'm working toward becoming a professional **.NET Backend Developer** and continuously improving my programming, database, problem-solving, and software development skills.
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 
-- GitHub: [Mohamed-Wael-10](https://github.com/Mohamed-Wael-10)
+GitHub: **Mohamed-Wael-10**
