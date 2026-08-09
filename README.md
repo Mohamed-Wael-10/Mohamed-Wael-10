@@ -1,23 +1,23 @@
 # Hi 👋, I'm Mohamed Wael Abdelghany
 
-### 💻 Computer Science Student | Aspiring .NET Backend Developer
+### 💻 Computer Science Student | Software Development Student
 
-🎓 Third-year Computer Science student at ACU.
+🎓 Third-year Computer Science student at ACU, specializing in **Software Development**.
 
-I'm passionate about software development and currently focusing on **C#, .NET, backend development, and databases**. I enjoy building real-world projects and improving my problem-solving skills through programming.
+I'm passionate about building software applications, solving programming problems, and continuously improving my technical skills. I enjoy working with different technologies and turning ideas into practical projects.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Web
+### Programming Languages
 - C#
 - C++
 - Python
 - SQL
-- HTML
 
-### Backend & .NET
+### Web & .NET
+- HTML
 - ASP.NET Core MVC
 - Entity Framework Core
 - LINQ
@@ -28,6 +28,13 @@ I'm passionate about software development and currently focusing on **C#, .NET, 
 ### Databases
 - SQL Server
 - SQLite
+
+### Data Structures & Algorithms
+- Linked Lists
+- Queues
+- Searching Algorithms
+- Sorting Algorithms
+- Object-Oriented Programming
 
 ### Tools
 - Git & GitHub
@@ -67,20 +74,22 @@ A console-based cinema ticket booking system with movie information, seat manage
 
 ## 📚 Currently Learning
 
+- Software Development
 - ASP.NET Core
-- .NET Backend Development
+- C# and .NET
 - Entity Framework Core
 - SQL & Database Design
-- Software Development
+- Data Structures & Algorithms
+- Software Engineering
 
 ---
 
-## 🎯 Career Goal
+## 🎯 Goals
 
-I'm working toward becoming a professional **.NET Backend Developer** and continuously improving my programming, database, problem-solving, and software development skills.
+To become a skilled **Software Developer** and build reliable, scalable, and user-focused software applications while continuously learning and improving my technical skills.
 
 ---
 
-## 📫 Contact
+## 📫 Connect With Me
 
-GitHub: **Mohamed-Wael-10**
+- GitHub: [Mohamed-Wael-10](https://github.com/Mohamed-Wael-10)
